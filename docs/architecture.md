@@ -72,7 +72,7 @@ This section provides an overview on folders / sub-projects that exist in this r
     - `/state`: A fast pre-circuit executor for zkSync transactions used on the Server level to generate blocks.
     - `/storage`: An encapsulated database interface.
     - `/types`: zkSync network operations, transactions and common types.
-    - `/utils`: Miscellaneous helpers for zkSync crates.
+    - `/utils`: Miscellaneous helpers for zkSync crates. 
     - `/vlog`: An utility library for verbose logging.
   - `/tests`: Testing infrastructure for zkSync network.
     - `/loadnext`: An application for highload testing of zkSync server.
